@@ -1,0 +1,4 @@
+#! /bin/bash
+
+g++ -c -o main.o main.cpp
+g++ -o run main.o ./vector3/vector3.o 
