@@ -1,1 +1,1 @@
-# PLT_SEM_2
+# Molecule in a cube
